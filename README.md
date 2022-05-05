@@ -13,7 +13,6 @@ This module is maintained by the DevOps team at [RMG Media](https://rmgmedia.com
 
 # Requirements
 
-
 -	[Terraform](https://www.terraform.io/downloads.html) >=0.12.x
 
 ## Usage
@@ -33,7 +32,7 @@ The module is a data data source module which provides IPv4 and IPv6 in 2 output
 
 ## Examples
 
-- [Minimal](https://github.com/tmknom/terraform-aws-ohdear-ips/tree/master/examples/minimal)
+- [Minimal](https://github.com/robomfeinberg/terraform-module-aws-ohdear-ips/tree/main/examples/minimal)
 
 ## Outputs
 
